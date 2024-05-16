@@ -1,6 +1,6 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
-//This line is called shebang, it tells the operating system to run it with node.js
+//This line is called shebang, it tells the operating system to run it with node.js                                 
 
 
 // Import the 'inquirer' module, which is a command line interface for Node.js
